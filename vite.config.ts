@@ -8,6 +8,6 @@ export default defineConfig({
     build: {
       outDir: './docs'
     },
-  base: '/my-react-telegram-web-app/'
+  base: './'
 })
 
